@@ -1,0 +1,18 @@
+.img{
+    margin-top: 1em;
+}
+
+
+div{
+    background-color: darkblue;
+    height: 8em;
+}
+
+div a{
+    margin-left: 2em;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+
